@@ -1,5 +1,4 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
-import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
 import gradio as gr
 import logging
 
